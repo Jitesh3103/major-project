@@ -160,18 +160,3 @@ The project follows a video analysis workflow involving person detection, attrib
 **Recognition:** First Place – Jnana Sangama 2K25 Paper Presentation
 
 ---
-
-## Author
-
-**Naik Jitesh Mahabaleshwar**
-
-Computer Science Engineering (Data Science) Graduate
-
-- GitHub: https://github.com/Jitesh3103
-- LinkedIn: https://www.linkedin.com/in/naik-jitesh-mahabaleshwar/
-- Portfolio: https://jitesh3103.github.io/jitesh-portfolio/
-- Email: naikjiteshm@gmail.com
-
----
-
-**CCTV-XTract – Applying Artificial Intelligence to Intelligent Video Surveillance.**
